@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 
 DATA_URL = (
-    "preprocessed_data.csv"
+    "https://raw.githubusercontent.com/KarryHarsh/uber-review-app/main/preprocessed_data.csv"
 )
 
 st.title("Sentiment Analysis of Uber Reviews")
